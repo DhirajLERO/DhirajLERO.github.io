@@ -162,8 +162,21 @@ content:
             icon: fab fa-github
             url: https://www.sciencedirect.com/science/article/pii/S0040162525000629
         description: | # this will include new lines to allow paragraphs
-          Govindarajan, U. H., Narang, G., Singh, D. K., & Yadav, V. S. (2025). Blockchain technologies adoption in healthcare: Overcoming barriers amid the hype cycle to enhance patient care. Technological Forecasting and Social Change, 213, 124031.
-  
+          Govindarajan, U. H., Singh, D. K., & Yadav, V. S. (2025). Blockchain technologies adoption in healthcare: Overcoming barriers amid the hype cycle to enhance patient care. Technological Forecasting and Social Change, 213, 124031.
+
+      - layout: top-middle
+        sub_title: An Analysis of Patent Grants between the years 2015-2023 in Conjunction with Academic Publications to Obtain Complementary Information and Build Educator Confidence in Web3 Integration
+        description: | # this will include new lines to allow paragraphs
+          Govindarajan, U. H., Singh, D. K., Zhong, W. & Yadav, Sun-Lin,H. (2025). An Analysis of Patent Grants between the years 2015-2023 in Conjunction with Academic Publications to Obtain Complementary Information and Build Educator Confidence in Web3 Integration. Engineering Management Review (Accepted).
+
+      - layout: top-middle
+        sub_title: Forecasting cyber security threats landscape and associated technical trends in telehealth using bidirectional encoder representations from Transformers (Bert)
+        additional_links:
+          - title: sproogen/modern-resume-theme
+            icon: fad fa-paper-plane
+            url: https://www.sciencedirect.com/science/article/abs/pii/S0167404823003140?via%3Dihub
+        description: | # this will include new lines to allow paragraphs
+          Govindarajan, U. H., Singh, D. K., & Gohel, H. A. (2023). Forecasting cyber security threats landscape and associated technical trends in telehealth using bidirectional encoder representations from Transformers (Bert). Computers & Security, 103404.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
