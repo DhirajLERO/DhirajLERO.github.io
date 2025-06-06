@@ -233,11 +233,11 @@ content:
           As a HIPAA-certified Data Scientist, I played a key role in orchestrating data science infrastructure, analyzing large and diverse datasets to extract business value, and driving process optimization. I actively researched and shared cutting-edge advancements in machine learning relevant to our use cases, ensuring the team stayed aligned with the latest industry standards.
         description: | # this will include new lines to allow paragraphs
           <mark>Projects</mark>
-          - **Risk Adjustments and Analytics - Knowledge Integrated Neural Network (KINN)** [AWS EMR, Kafka, Scala, Pyspark, Tensorflow Distributed, Scikit-learn]
+          - **Risk Adjustments and Analytics - Knowledge Integrated Neural Network (KINN) [AWS EMR, Kafka, Scala, Pyspark, Tensorflow Distributed, Scikit-learn]**
             
             Developed a fully scalable and distributed pipeline for detecting missing medical conditions (ICD/HCC codes) from patients’ medical history (claim data) (Suspect Engine). The architecture combines a Machine Learning method based on an Autoencoder - Recommendation system with an expert knowledge approach based on a Clinical Rule Engine. Furthermore, Designed and built an approach (Targeting Engine) for identifying patient-provider relationships and locating missing diagnostic codes.
 
-          - Talix Coding Insight Improvement and Talix Taxonomy Visualization [AWS EC2, Tensorflow, Pytorch, Detectron 2, HuggingFace Transformers, Microsoft UniLM, Doctr, Docker, FastAPI ]
+          - **Talix Coding Insight Improvement and Talix Taxonomy Visualization [AWS EC2, Tensorflow, Pytorch, Detectron 2, HuggingFace Transformers, Microsoft UniLM, Doctr, Docker, FastAPI ]**
             
             Talix coding insight helps clinical coders to find diagnostic codes in patient medical literature (charts). Improvements were made in the following directions.
           
@@ -250,19 +250,19 @@ content:
             
             The Talix Taxonomy maps out over 1,000,000 health concepts and over 2,000,000 relationships and is constantly updated, expanded, and refined-making it the most comprehensive map of healthcare concepts in existence today. Designed and built a system that allows clinicians to visualize complex tabular taxonomy data in graph form. Added a dashboard to allow them to simply traverse through the graph and examine various qualities at the concept level.
 
-          - Population Payment Management – Episode of Care Risk Score [AWS EMR, Pyspark, MLlib]
+          - **Population Payment Management – Episode of Care Risk Score [AWS EMR, Pyspark, MLlib]**
           
             Developed a system to determine Risk Coefficient associated with multiple types of episodes of care (Pregnancy, Cancer etc.) using Statistical Models. Risk Coefficient captures the demographic and clinical markers that affect the cost of care. Iterative GLM (Gaussian with Identity link) with Wald test-based feature drop was used. The P-value used was below 0.10.
 
-          - Prior Authorization [ AWS EC2, Hugging Face Transformers, Pythia, Falcon-40B, Llama 2 70B, LLMs]
+          - **Prior Authorization [ AWS EC2, Hugging Face Transformers, Pythia, Falcon-40B, Llama 2 70B, LLMs]**
           
             Led the product development for fully automated Edifecs Prior Authorization, introducing a revolutionary approach integrating an AI-enabled solution with providers' Electronic Health Records. The solution leveraged Large Language Model capabilities to transform policy requirements into a comprehensive questionnaire, seamlessly automating the matching of responses with Electronic Health Records. This innovative approach optimizes policy compliance within the broader healthcare framework.
         
-          - Data Science Infrastructure Orchestration
-            - DataHub : Data Hub was used for data discovery, observability, and federated governance. This allowed Edifecs' Data Science team to easily examine the various data sources and schema available across various Edifecs products and teams.
-            - MLflow : MLflow is an open-source platform to manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry. Deployed an MLflow docker on EC2 to allow the data science team to track various experiments and Models.
-            - Automated Preliminary Exploratory Data Analysis : D-Tale, Autoviz, sweetviz, and Pandas profiling were used to automate the preliminary EDA. With the basic EDA ready in a few lines of code, data scientists were able to dive deeper.
-            - Explainable AI : Explain-ability is one of the main barriers AI is facing nowadays regarding its practical implementation specifically in the Healthcare domain hence we Designed AI explain-ability guidelines for different types of models. In addition, a collection of Explain-ability packages was created to assist data scientists in describing various sorts of ML models.
+          - **Data Science Infrastructure Orchestration**
+            - **DataHub** : Data Hub was used for data discovery, observability, and federated governance. This allowed Edifecs' Data Science team to easily examine the various data sources and schema available across various Edifecs products and teams.
+            - **MLflow** : MLflow is an open-source platform to manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry. Deployed an MLflow docker on EC2 to allow the data science team to track various experiments and Models.
+            - **Automated Preliminary Exploratory Data Analysis** : D-Tale, Autoviz, sweetviz, and Pandas profiling were used to automate the preliminary EDA. With the basic EDA ready in a few lines of code, data scientists were able to dive deeper.
+            - **Explainable AI** : Explain-ability is one of the main barriers AI is facing nowadays regarding its practical implementation specifically in the Healthcare domain hence we Designed AI explain-ability guidelines for different types of models. In addition, a collection of Explain-ability packages was created to assist data scientists in describing various sorts of ML models.
           
           
 
