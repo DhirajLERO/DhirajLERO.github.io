@@ -183,6 +183,35 @@ content:
         description: | # this will include new lines to allow paragraphs
           Submitted - The project deals with creating a faithful explainability method for identifying important features of the model.
 
+  - title: Engagements # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        sub_title: Committee Member
+        caption: 2022
+        description: | # this will include new lines to allow paragraphs
+          The IEEE International Conference on Computer Supported Cooperative Work in Design (IEEE CSCWD 2022), Hangzhou, China.
+      - layout: left
+        sub_title: Organizing Chair Member
+        caption: 2022
+        description: | # this will include new lines to allow paragraphs
+          The special session Business Intelligence: The CSCW Perspectives, IEEE International Conference on Computer Supported Cooperative Work in Design (IEEE CSCWD 2022) , Hangzhou, China.
+
+      - layout: left
+        sub_title: Committee Member
+        caption: 2022
+        description: | # this will include new lines to allow paragraphs
+          International Conference on Artificial Intelligence, and its Applications (iCARTI, 2021), Mauritius.
+
+      - layout: left
+        sub_title: Mentor
+        caption: 2022
+        link: https://www.pilcchina.org/invitation
+        description: | # this will include new lines to allow paragraphs
+          Rural Revitalization & E-mobility
+          
+          Mentored a team of 4 students from the National Rail & Transportation Institute, Vadodara to participate in the 8th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition. The team secured the third position in the Shanghai zone.
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
