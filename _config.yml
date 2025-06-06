@@ -6,28 +6,22 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Dhiraj Kumar Singh
+title: Doctoral researcher @ UL
+email: dhirajkumar.singh@ul.ie
+website: https://www.linkedin.com/in/dhiraj-singh-b6a8a51b7/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
-# xing_username: jekyll
-# pinterest_username: jekyll
+github_username:  dhirajLERO
+
+linkedin_username: dhiraj-singh-b6a8a51b7
+
 youtube_username: globalmtb
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
+
+orcid_username: 0000-0002-5301-3724
 
 # Additional icon links
 additional_links:
