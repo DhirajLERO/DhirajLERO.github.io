@@ -230,9 +230,9 @@ content:
         sub_title: Senior Data Scientist
         caption: May 2021 - Sep 2023
         quote: >
-          As a HIPAA-certified professional, I played a key role in orchestrating data science infrastructure, analyzing large and diverse datasets to extract business value, and driving process optimization. I actively researched and shared cutting-edge advancements in machine learning relevant to our use cases, ensuring the team stayed aligned with the latest industry standards. My responsibilities also included designing scalable training and inference pipelines, as well as developing and deploying machine learning models into production.
+          As a HIPAA-certified professional, I played a key role in orchestrating data science infrastructure, analyzing large and diverse datasets to extract business value, and driving process optimization. I actively researched and shared cutting-edge advancements in machine learning relevant to our use cases, ensuring the team stayed aligned with the latest industry standards.
         description: | # this will include new lines to allow paragraphs
-          *Projects*
+          <mark>Projects</mark>
           - Data Science Infrastructure orchestration and management
             Data Science Infrastructure orchestration and management
               - work project
