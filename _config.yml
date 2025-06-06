@@ -263,9 +263,51 @@ content:
             - **MLflow** : MLflow is an open-source platform to manage the ML lifecycle, including experimentation, reproducibility, deployment, and a central model registry. Deployed an MLflow docker on EC2 to allow the data science team to track various experiments and Models.
             - **Automated Preliminary Exploratory Data Analysis** : D-Tale, Autoviz, sweetviz, and Pandas profiling were used to automate the preliminary EDA. With the basic EDA ready in a few lines of code, data scientists were able to dive deeper.
             - **Explainable AI** : Explain-ability is one of the main barriers AI is facing nowadays regarding its practical implementation specifically in the Healthcare domain hence we Designed AI explain-ability guidelines for different types of models. In addition, a collection of Explain-ability packages was created to assist data scientists in describing various sorts of ML models.
-          
-          
 
+      - layout: left
+        title: Hughes Systique Corporation
+        link: www.hsc.com
+        link_text: Website
+        sub_title: Data Scientist
+        caption: Jul 2019 – May 2021
+        quote: >
+          In this role, I focused on deeply understanding complex business problems and identifying opportunities for optimization through data-driven approaches. I conducted thorough research into current state-of-the-art techniques relevant to each use case, ensuring the solutions were grounded in the latest advancements. My work involved extensive dataset exploration, visualization, statistical analysis, and feature engineering to uncover actionable insights. I led the end-to-end process of model training, evaluation, and testing, continuously improving predictive performance through hyper-parameter tuning.
+        description: | # this will include new lines to allow paragraphs
+          <mark>Projects</mark>
+          - **Inventory Management System For commercial Refrigerators [Ubuntu, Tensorflow, Opencv, Numpy, Pandas, plotly]**
+            
+            Based on the Monocular Depth Estimation technique and Object detection and segmentation, the number of bottles already present inside the commercial refrigerator and how many more can be stored was determined with 98% accuracy (POC for Coca-Cola India). Based on the collected data, Data Analysis and Time Series Forecasting were used to forecast the usage trend and seasonality.
+
+          - **Measuring Retail Store Traffic System [Ubuntu, Tensorflow, OpenCV, NumPy, Pandas, Intel Openvino]**
+            
+            Live tracking of store visitors with 71% Multiple Object Tracking Accuracy (MOTA) using the Person Re-Identification Algorithm (feature map extraction and Pedestrian Attribute Recognition) with OSNET and DeepSort. The system also analyses customer interactions with the store space, resulting in more effective and efficient store space management. The architecture is fully scalable and based on distributed computation.
+          
+          - **Social Distancing and COVID-19 Management [Ubuntu, OpenCV, NumPy, Pandas, Intel Openvino]**
+          
+            Created a system to ensure that people are adhering to social distancing and wearing masks. In closed spaces, we used projective transform and camera calibration to determine the distance between people with a +/- 4 cm error margin. In addition, an analytic dashboard was created for the administration to determine specific areas and times of day that are more prone to violations.
+          
+          - **Augmented Reality based installer Bot [Ubuntu, OpenCV, NumPy, Pandas, Tensorflow, PyOpenGL, OpenGL]**
+          
+            Designed a system that uses augmented reality to guide users through the installation of a network device such as a router. Object detection was used to determine which side of the device was facing the camera, and then OpenGL and OpenCV were used to project 3D objects.
+
+          - **Image Installation Auditor Tool [GCP, Opencv, NumPy, Pandas, Tensorflow]**
+            
+            Increased Auditing efficiency by 95% by automating the process with a dashboard built to classify different hardware equipment from images (Used Image Classification and Image Segmentation).
+          
+          - **Call Center Transcripts Generation [GCP, Google UISRNN, Tensorflow, OpenSeq2seq, NLTK]**
+          
+            Used Speech Signal Processing, Speaker Diarization to distinguish between Customer executive and caller, and Speech Recognition to convert speech into text. Achieved 25% WER (Word Error Rate) on real-world noisy audio beating Google’s Speech API accuracy by 5%.
+          
+          - **Unsupervised Text Analytics [Ubuntu, NLTK, plotly, Sentence-Bert, Scikit-learn ]**
+          
+            Devised an approach to find different intents, hidden inside sentences, questions, or a comment in an unsupervised manner using PCA and clustering. Raw sentences are encoded using Sentence Bert (S-Bert) and projected onto the top 100 Eigenvectors using PCA capturing 95% variance. Performed cluster analysis to find the hidden intent clusters. The optimal number of clusters was determined using WCSS and elbow method. We got the Most Innovative team award for this research.
+          
+          - **Natural Language Understanding and Time series prediction [GCP, NLTK, Sentence-Bert, Keras, Scikit-learn ]**
+          
+            Formulated a way to analyze interactions between customer and Customer support, and further determine whether customers will continue with the service or opt-out. The accuracy of the model was 92%. This helped in retaining customers who were at risk of opting out of the service.
+          
+            
+          
 
 
 
