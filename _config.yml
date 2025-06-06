@@ -145,7 +145,7 @@ content:
     layout: list
     content:
       - layout: top-middle
-        title: GraCo - Towards GRammar Assisted COunterfactuals
+        sub_title: GraCo - Towards GRammar Assisted COunterfactuals
         link: https://gecco-2025.sigevo.org/Accepted-Posters
         # link_text: Project Website
         additional_links:
@@ -156,7 +156,7 @@ content:
           Singh, D. K., de Lima, A., Reyes Fernández de Bulnes, D., & Ryan, C. (2025). GraCo: Towards GRammar Assisted COunterfactuals. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '25 Companion) [Accepted].
 
       - layout: top-middle
-        title: Blockchain technologies adoption in healthcare - Overcoming barriers amid the hype cycle to enhance patient care
+        sub_title: Blockchain technologies adoption in healthcare - Overcoming barriers amid the hype cycle to enhance patient care
         additional_links:
           - title: sproogen/modern-resume-theme
             icon: fab fa-github
@@ -165,7 +165,7 @@ content:
           Govindarajan, U. H., Singh, D. K., & Yadav, V. S. (2025). Blockchain technologies adoption in healthcare: Overcoming barriers amid the hype cycle to enhance patient care. Technological Forecasting and Social Change, 213, 124031.
 
       - layout: top-middle
-        title: An Analysis of Patent Grants between the years 2015-2023 in Conjunction with Academic Publications to Obtain Complementary Information and Build Educator Confidence in Web3 Integration
+        sub_title: An Analysis of Patent Grants between the years 2015-2023 in Conjunction with Academic Publications to Obtain Complementary Information and Build Educator Confidence in Web3 Integration
         description: | # this will include new lines to allow paragraphs
           Govindarajan, U. H., Singh, D. K., Zhong, W. & Yadav, Sun-Lin,H. (2025). An Analysis of Patent Grants between the years 2015-2023 in Conjunction with Academic Publications to Obtain Complementary Information and Build Educator Confidence in Web3 Integration. Engineering Management Review (Accepted).
 
@@ -179,7 +179,7 @@ content:
           Govindarajan, U. H., Singh, D. K., & Gohel, H. A. (2023). Forecasting cyber security threats landscape and associated technical trends in telehealth using bidirectional encoder representations from Transformers (Bert). Computers & Security, 103404.
 
       - layout: top-middle
-        title: EvoDropX - Evolving Feature Dropout for Faithful Model Explanations
+        sub_title: EvoDropX - Evolving Feature Dropout for Faithful Model Explanations
         description: | # this will include new lines to allow paragraphs
           Submitted - The project deals with creating a faithful explainability method for identifying important features of the model.
 
