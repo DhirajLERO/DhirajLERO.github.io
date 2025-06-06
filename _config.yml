@@ -40,23 +40,27 @@ content:
         caption: 2023 - 2027
         link: https://lero.ie/people/dhiraj-kumar-singh
         description: | # this will include new lines to allow paragraphs
-          Centre for research and Training in AI, University of Limerick, Limerick, Ireland
+          <mark>Centre for research and Training in AI</mark>, University of Limerick, Limerick, Ireland
+          
+          Member, <mark>Biocomputing and Development Systems Group </mark>, LERO, Research Ireland Centre for Software
       - layout: left
         sub_title: Lectureship
         caption: 2019
         link: https://ugcnet.nta.nic.in/
         description: | # this will include new lines to allow paragraphs
-          University Grant Commission, NET (National Eligibility test), India. 
+          University Grant Commission, <mark>NET (National Eligibility test)</mark>, India. 
+          
           Lectureship Subject: Computer Science. Percentile: 98.01%
       - layout: left
         sub_title: Master’s Degree
         caption: 2017 - 2019
         link: https://www.du.ac.in/
         description: | # this will include new lines to allow paragraphs
-          University of Delhi, Delhi, India, M. Sc.
+          <mark>University of Delhi<mark>, Delhi, India, M. Sc.
+          
           Major: Informatics. CGPA: 7.39
-          Advisor: Dr. Sanjiv Singh.
-          Conducted Lectures on Machine Learning For M.Sc. Students.
+          
+          Advisor: Dr. Sanjiv Singh, Conducted Lectures on Machine Learning For M.Sc. Students.
   
   
 
