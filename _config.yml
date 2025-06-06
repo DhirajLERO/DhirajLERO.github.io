@@ -160,14 +160,13 @@ content:
     content:
       - layout: top-middle
         sub_title: Blockchain technologies adoption in healthcare- Overcoming barriers amid the hype cycle to enhance patient care
-        link: https://gecco-2025.sigevo.org/Accepted-Posters
-        # link_text: Project Website
         additional_links:
           - title: sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+            icon: fab <i class="fa-solid fa-file"></i>
+            url: https://www.sciencedirect.com/science/article/pii/S0040162525000629
         description: | # this will include new lines to allow paragraphs
-          Singh, D. K., de Lima, A., Reyes Fernández de Bulnes, D., & Ryan, C. (2025). GraCo: Towards GRammar Assisted COunterfactuals. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '25 Companion) [Accepted].
+          Govindarajan, U. H., Narang, G., Singh, D. K., & Yadav, V. S. (2025). Blockchain technologies adoption in healthcare: Overcoming barriers amid the hype cycle to enhance patient care. Technological Forecasting and Social Change, 213, 124031.
+  
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
