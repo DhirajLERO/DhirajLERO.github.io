@@ -48,7 +48,7 @@ content:
         caption: 2019
         link: https://ugcnet.nta.nic.in/
         description: | # this will include new lines to allow paragraphs
-          University Grant Commission, <mark>NET (National Eligibility test)</mark>, India. 
+          University Grant Commission, </mark>NET (National Eligibility test)</mark>, India. 
           
           Lectureship Subject: Computer Science. Percentile: 98.01%
       - layout: left
@@ -56,7 +56,7 @@ content:
         caption: 2017 - 2019
         link: https://www.du.ac.in/
         description: | # this will include new lines to allow paragraphs
-          <mark>University of Delhi<mark>, Delhi, India.
+          <mark>University of Delhi</mark>, Delhi, India.
           
           Major: Informatics. CGPA: 7.39
           
@@ -66,7 +66,7 @@ content:
         caption: 2017 - 2019
         link: https://www.christuniversity.in/
         description: | # this will include new lines to allow paragraphs
-          <mark>Christ University<mark>, Bangalore.
+          <mark>Christ University</mark>, Bangalore.
           
           Major: Mathematics, Physics And Electronics. CGPA: 8.25
           
@@ -77,13 +77,70 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        sub_title: Teaching team
+        caption: Spring 2025
+        description: | # this will include new lines to allow paragraphs
+          <mark>Software Development Project</mark>, University of Limerick, Ireland.
+          
+          The course guided bachelor students through the end-to-end process of designing and developing a web application. Students gained hands-on experience with front-end technologies such as HTML, CSS, and Bootstrap, as well as back-end development using PHP and MySQL.
+
+      - layout: left
         sub_title: Teaching Assistant
         caption: Spring 2025
         description: | # this will include new lines to allow paragraphs
-          Software Development Project, University of Limerick, Ireland.
+          <mark>Applied Big Data & Visualisation</mark>, University of Limerick, Ireland.
           
-          The course guided bachelor students through the end-to-end process of designing and developing a web application. Students gained hands-on experience with front-end technologies such as HTML, CSS, and Bootstrap, as well as back-end development using PHP and MySQL.
+          The course was designed as a hands-on module to equip M.Sc. AI students with practical skills in managing and analysing large-scale data. While briefly covering the theoretical foundations of distributed data processing, the primary focus was on key technologies such as Hadoop and Apache Spark.
+
+      - layout: left
+        sub_title: Teaching Assistant
+        caption: Fall 2024
+        description: | # this will include new lines to allow paragraphs
+          <mark>Evolutionary Algorithms and Humanoid Robotics</mark>, University of Limerick, Ireland.
           
+          The course introduced M.Sc. AI students to bio-inspired optimization methods, focusing on both theory and practical implementation. Core topics included genetic algorithms, evolution strategies, genetic programming, and grammatical evolution. Emphasis was placed on solution representation, selection mechanisms, and fitness evaluation.
+
+      - layout: left
+        sub_title: Teaching team
+        caption: Fall 2024
+        description: | # this will include new lines to allow paragraphs
+          <mark>BUSINESS INFORMATION SYSTEMS</mark>, University of Limerick, Ireland.
+          
+          The course was designed to provide bachelor students with a foundational understanding of how information systems support and enhance business operations. Lectures covered key topics such as data management, business process modelling, and the strategic use of information technology. Additionally, the course explored the role of IT in decision-making and introduced tools for analysing and optimizing business performance.
+
+      - layout: left
+        sub_title: Teaching Assistant
+        caption: Spring 2024
+        description: | # this will include new lines to allow paragraphs
+          <mark>Explainable AI</mark>, University of Limerick, Ireland.
+          
+          The course was designed to equip M.Sc. AI students with a thorough understanding of the explainable components of artificial intelligence. Lectures were conducted, during which the distinctions between explainable and non-explainable models were explained. Additionally, the course covered methodologies for interpreting non-explainable models
+
+      - layout: left
+        sub_title: Teaching team
+        caption: Spring 2023
+        description: | # this will include new lines to allow paragraphs
+          <mark>Data mining</mark>, University of Shanghai for Science and Technology, China.
+          
+          The content of this course is spread across different stages of the data mining process such as problem definition, analytics design, data exploration, data preparation, modelling using both open-source AI platforms and Python programming, and visualization. The lectures will also provide a working foundation for real-world applications through case study discussions in the classroom.
+
+      - layout: left
+        sub_title: Teaching team
+        caption: Fall 2022
+        description: | # this will include new lines to allow paragraphs
+          <mark>Python programming</mark>, University of Shanghai for Science and Technology, China.
+          
+          This course is intended to lay the groundwork for real-world applications, which will be followed by an advanced Python programming course titled "Python Applications" in the final semester of the undergraduate program.
+
+      - layout: left
+        sub_title: Teaching team
+        caption: Fall 2021
+        description: | # this will include new lines to allow paragraphs
+          <mark>Artificial Intelligence & Citizen Development for International Business</mark>, SKEMA Business School, France.
+          
+          The course was organized to realize the theories in Data Management, AI, Natural Language Processing (NLP), and Digital Transformation (DT) through low-code environments and concepts of citizen development in the International Business context. Taught the master’s course Artificial Intelligence for International Business School during my appointment with high teaching effectiveness evaluation of <mark>4.2/5</mark>.
+          
+        
           
           
       
