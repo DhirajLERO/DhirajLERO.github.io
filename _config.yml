@@ -52,15 +52,41 @@ content:
           
           Lectureship Subject: Computer Science. Percentile: 98.01%
       - layout: left
-        sub_title: Master’s Degree
+        sub_title: Master’s Degree (M.Sc)
         caption: 2017 - 2019
         link: https://www.du.ac.in/
         description: | # this will include new lines to allow paragraphs
-          <mark>University of Delhi<mark>, Delhi, India, M. Sc.
+          <mark>University of Delhi<mark>, Delhi, India.
           
           Major: Informatics. CGPA: 7.39
           
           Advisor: Dr. Sanjiv Singh, Conducted Lectures on Machine Learning For M.Sc. Students.
+      - layout: left
+        sub_title: Bachelor's Degree (B.Sc Triple Major)
+        caption: 2017 - 2019
+        link: https://www.christuniversity.in/
+        description: | # this will include new lines to allow paragraphs
+          <mark>Christ University<mark>, Bangalore.
+          
+          Major: Mathematics, Physics And Electronics. CGPA: 8.25
+          
+          Conducted Lectures on Superconductors For B.Sc. Students.
+  
+
+  - title: Teaching Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        sub_title: Teaching Assistant
+        caption: Spring 2025
+        description: | # this will include new lines to allow paragraphs
+          Software Development Project, University of Limerick, Ireland.
+          
+          The course guided bachelor students through the end-to-end process of designing and developing a web application. Students gained hands-on experience with front-end technologies such as HTML, CSS, and Bootstrap, as well as back-end development using PHP and MySQL.
+          
+          
+          
+      
   
   
 
