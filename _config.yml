@@ -233,10 +233,21 @@ content:
           As a HIPAA-certified professional, I played a key role in orchestrating data science infrastructure, analyzing large and diverse datasets to extract business value, and driving process optimization. I actively researched and shared cutting-edge advancements in machine learning relevant to our use cases, ensuring the team stayed aligned with the latest industry standards.
         description: | # this will include new lines to allow paragraphs
           <mark>Projects</mark>
-          - Risk Adjustments and Analytics - Knowledge Integrated Neural Network (KINN) [AWS EMR, Kafka, Scala, Pyspark, Tensorflow Distributed, scikit-learn]
+          - Risk Adjustments and Analytics - Knowledge Integrated Neural Network (KINN) [AWS EMR, Kafka, Scala, Pyspark, Tensorflow Distributed, Scikit-learn]
             
             Developed a fully scalable and distributed pipeline for detecting missing medical conditions (ICD/HCC codes) from patients’ medical history (claim data) (Suspect Engine). The architecture combines a Machine Learning method based on an Autoencoder - Recommendation system with an expert knowledge approach based on a Clinical Rule Engine. Furthermore, Designed and built an approach (Targeting Engine) for identifying patient-provider relationships and locating missing diagnostic codes.
 
+          - Talix Coding Insight Improvement and Talix Taxonomy Visualization [AWS EC2, Tensorflow, Pytorch, Detectron 2, HuggingFace Transformers, Microsoft UniLM, Doctr, Docker, FastAPI ]
+            
+            Talix coding insight helps clinical coders to find diagnostic codes in patient medical literature (charts). Improvements were made in the following directions.
+            - Reduced OCR costs by migrating from Abby Fine to Doctr-based in-house OCR.
+            - Detection and segmentation of form type (Q&A versus OMR-based form) utilizing Mask R-CNN and layout parser.
+            - Q&A Form data extraction using LayoutLM V2.
+            - CascadeTabNet and Deepdoctection were used to detect tables and recognize table structures.
+            - Deployed Dockerized models with FastAPI endpoints.
+            - Medical charts to ICD-10 code generation using Multimodal network.
+            
+            The Talix Taxonomy maps out over 1,000,000 health concepts and over 2,000,000 relationships and is constantly updated, expanded, and refined-making it the most comprehensive map of healthcare concepts in existence today. Designed and built a system that allows clinicians to visualize complex tabular taxonomy data in graph form. Added a dashboard to allow them to simply traverse through the graph and examine various qualities at the concept level.
 
 
         
