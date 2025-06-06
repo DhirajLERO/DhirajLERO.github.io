@@ -139,13 +139,21 @@ content:
           <mark>Artificial Intelligence & Citizen Development for International Business</mark>, SKEMA Business School, France.
           
           The course was organized to realize the theories in Data Management, AI, Natural Language Processing (NLP), and Digital Transformation (DT) through low-code environments and concepts of citizen development in the International Business context. Taught the master’s course Artificial Intelligence for International Business School during my appointment with high teaching effectiveness evaluation of <mark>4.2/5</mark>.
-          
-        
-          
-          
-      
   
-  
+
+  - title: Publications # Title for the section
+    layout: list
+    content:
+      - layout: top-middle
+        sub_title: GraCo - Towards GRammar Assisted COunterfactuals
+        link: https://gecco-2025.sigevo.org/Accepted-Posters
+        # link_text: Project Website
+        additional_links:
+          - title: sproogen/modern-resume-theme
+            icon: fab fa-github
+            url: github.com/sproogen/modern-resume-theme
+        description: | # this will include new lines to allow paragraphs
+          Singh, D. K., de Lima, A., Reyes Fernández de Bulnes, D., & Ryan, C. (2025). GraCo: Towards GRammar Assisted COunterfactuals. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '25 Companion) [Accepted].
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
