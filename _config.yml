@@ -32,6 +32,16 @@ about_content: | # this will include new lines to allow paragraphs
 
 
 content:
+  - title: Education # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: PhD in Explainable Artificial Intelligence
+        caption: 2023 - 2027
+        description: | # this will include new lines to allow paragraphs
+	  Centre for research and Training in AI, University of Limerick, Limerick, Ireland
+  
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -89,7 +99,7 @@ content:
       - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
       Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      ![Trees](images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
