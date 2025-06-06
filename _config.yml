@@ -145,7 +145,7 @@ content:
     layout: list
     content:
       - layout: top-middle
-        sub_title: GraCo - Towards GRammar Assisted COunterfactuals
+        title: GraCo - Towards GRammar Assisted COunterfactuals
         link: https://gecco-2025.sigevo.org/Accepted-Posters
         # link_text: Project Website
         additional_links:
