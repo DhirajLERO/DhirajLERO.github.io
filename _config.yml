@@ -48,7 +48,7 @@ content:
         caption: 2019
         link: https://ugcnet.nta.nic.in/
         description: | # this will include new lines to allow paragraphs
-          University Grant Commission, </mark>NET (National Eligibility test)</mark>, India. 
+          University Grant Commission, <mark>NET (National Eligibility test)</mark>, India. 
           
           Lectureship Subject: Computer Science. Percentile: 98.01%
       - layout: left
@@ -96,7 +96,7 @@ content:
         sub_title: Teaching Assistant
         caption: Fall 2024
         description: | # this will include new lines to allow paragraphs
-          <mark>Evolutionary Algorithms and Humanoid Robotics</mark>, University of Limerick, Ireland.
+          <mark>Evolutionary Algorithms & Humanoid Robotics</mark>, University of Limerick, Ireland.
           
           The course introduced M.Sc. AI students to bio-inspired optimization methods, focusing on both theory and practical implementation. Core topics included genetic algorithms, evolution strategies, genetic programming, and grammatical evolution. Emphasis was placed on solution representation, selection mechanisms, and fitness evaluation.
 
@@ -104,7 +104,7 @@ content:
         sub_title: Teaching team
         caption: Fall 2024
         description: | # this will include new lines to allow paragraphs
-          <mark>BUSINESS INFORMATION SYSTEMS</mark>, University of Limerick, Ireland.
+          <mark>Business Information Systems</mark>, University of Limerick, Ireland.
           
           The course was designed to provide bachelor students with a foundational understanding of how information systems support and enhance business operations. Lectures covered key topics such as data management, business process modelling, and the strategic use of information technology. Additionally, the course explored the role of IT in decision-making and introduced tools for analysing and optimizing business performance.
 
