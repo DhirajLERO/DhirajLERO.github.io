@@ -41,6 +41,13 @@ content:
         link: https://lero.ie/people/dhiraj-kumar-singh
         description: | # this will include new lines to allow paragraphs
           Centre for research and Training in AI, University of Limerick, Limerick, Ireland
+      - layout: left
+        sub_title: Lectureship
+        caption: 2019
+        link: https://ugcnet.nta.nic.in/
+        description: | # this will include new lines to allow paragraphs
+          University Grant Commission, NET (National Eligibility test), India. Lectureship Subject: Computer Science. Percentile: 98.01%
+  
   
 
   - title: Projects # Title for the section
