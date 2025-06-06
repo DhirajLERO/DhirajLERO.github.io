@@ -233,7 +233,7 @@ content:
           As a HIPAA-certified Data Scientist, I played a key role in orchestrating data science infrastructure, analyzing large and diverse datasets to extract business value, and driving process optimization. I actively researched and shared cutting-edge advancements in machine learning relevant to our use cases, ensuring the team stayed aligned with the latest industry standards.
         description: | # this will include new lines to allow paragraphs
           <mark>Projects</mark>
-          - Risk Adjustments and Analytics - Knowledge Integrated Neural Network (KINN) [AWS EMR, Kafka, Scala, Pyspark, Tensorflow Distributed, Scikit-learn]
+          - **Risk Adjustments and Analytics - Knowledge Integrated Neural Network (KINN)** [AWS EMR, Kafka, Scala, Pyspark, Tensorflow Distributed, Scikit-learn]
             
             Developed a fully scalable and distributed pipeline for detecting missing medical conditions (ICD/HCC codes) from patients’ medical history (claim data) (Suspect Engine). The architecture combines a Machine Learning method based on an Autoencoder - Recommendation system with an expert knowledge approach based on a Clinical Rule Engine. Furthermore, Designed and built an approach (Targeting Engine) for identifying patient-provider relationships and locating missing diagnostic codes.
 
