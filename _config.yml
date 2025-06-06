@@ -413,7 +413,36 @@ content:
         description: | # this will include new lines to allow paragraphs
           
           Deeplearning.ai (All four Courses): *Andrew Ng, Younes Bensouda, Kian Katanforoosh*.
+
+      - layout: left
+        sub_title: CS224N Stanford Online
+        description: | # this will include new lines to allow paragraphs
           
+          Natural Language Processing with Deep Learning (Winter-2019): *Christopher Manning, Abigail See*.
+
+      - layout: left
+        sub_title: CMU 10-715
+        description: | # this will include new lines to allow paragraphs
+          
+          Advanced Introduction to Machine Learning (Fall 2015): *Barnabas Poczos, Alex Smola*.
+
+      - layout: left
+        sub_title: MIT Course 9.520
+        description: | # this will include new lines to allow paragraphs
+          
+          Statistical Learning Theory and Applications, (Fall 2015): *Tomaso Poggio, Lorenzo Rosasco*.
+
+      - layout: left
+        sub_title: Microsoft DEV287x
+        description: | # this will include new lines to allow paragraphs
+          
+          Speech Recognition Systems: *Adrian Leven*.
+
+      - layout: left
+        sub_title: Stanford CS224S/LINGUIST28
+        description: | # this will include new lines to allow paragraphs
+          
+          Spoken Language Processing by *Andrew Maas*.
 
           
           
