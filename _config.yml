@@ -325,7 +325,19 @@ content:
           
             Used blob detection methodology to automate the tedious task of detecting starch structure on a gray scale image. Not only did we detect the total number of starch structures, but we also determined the radius and position of each starch structure.
            
+      - layout: left
+        title: Sunsure Energy
+        link: www.sunsure-energy.com
+        link_text: Website
+        sub_title: Data Science Intern
+        caption: Jan 2019 – Apr 2019
+        description: | # this will include new lines to allow paragraphs
+          <mark>Projects</mark>
+          - **Consumer Feedback Analysis [GCP, NLTK, Sentence-Bert, Keras, Scikit-learn ]**
+            
+            Designed an application to analyze user feedback and determine technical areas that need more attention. Average classification accuracy was 93.8% in 6 classes.
           
+
 
 
 
