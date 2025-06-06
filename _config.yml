@@ -173,10 +173,15 @@ content:
         sub_title: Forecasting cyber security threats landscape and associated technical trends in telehealth using bidirectional encoder representations from Transformers (Bert)
         additional_links:
           - title: sproogen/modern-resume-theme
-            icon: fas paper-plane
+            icon: fab fa-github
             url: https://www.sciencedirect.com/science/article/abs/pii/S0167404823003140?via%3Dihub
         description: | # this will include new lines to allow paragraphs
           Govindarajan, U. H., Singh, D. K., & Gohel, H. A. (2023). Forecasting cyber security threats landscape and associated technical trends in telehealth using bidirectional encoder representations from Transformers (Bert). Computers & Security, 103404.
+
+      - layout: top-middle
+        sub_title: EvoDropX - Evolving Feature Dropout for Faithful Model Explanations
+        description: | # this will include new lines to allow paragraphs
+          Submitted - The project deals with creating a faithful explainability method for identifying important features of the model.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
