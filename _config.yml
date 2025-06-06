@@ -351,7 +351,44 @@ content:
           
           - Develop systems to Analyze user behavior.
           
+  - title: Technical Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Data Science skills
+        description: | # this will include new lines to allow paragraphs
+          Exploratory Data Analysis, Time Series Analysis, and Forecasting, Classification, Regression, Clustering And Statistical Analysis, Residual Analysis, SHAP analysis, Computer Vision, NLP, Multimodal Tasks (Form data extraction), Recommendation system, Synthetic Data Generation, ETL Pipeline Development.
 
+      - layout: left
+        title: ML Packages
+        description: | # this will include new lines to allow paragraphs
+          Tensorflow, Pytorch, Keras, Intel Openvino (Low Computation Deployment), Pandas, Numpy, SciPy, Scikit-learn, Matplotlib, NLTK, Seaborn, Xgboost, Pyopengl, OpenCV, Openseq2seq, PySpark, MLlib, Detectron 2, Transformer, FastAPI, Tensorflow Distributed(EMR).
+
+      - layout: left
+        title: Computation Skills
+        description: | # this will include new lines to allow paragraphs
+          Data Structures and Algorithms, Architecture Design (HLD & LLD), Microsoft Visio, Networking, Cryptography, OS (Linux, Linux-BSD, CentOS), Database.
+
+      - layout: left
+        title: Programming Skills
+        description: | # this will include new lines to allow paragraphs
+          Python, C, Java, Scala (spark).
+
+      - layout: left
+        title: Data Ingestion
+        description: | # this will include new lines to allow paragraphs
+          Kafka, S3, Redshift, MySQL, MongoDB, S3, Directly from source (Camera and Sensors).
+
+      - layout: left
+        title: Development Environment
+        description: | # this will include new lines to allow paragraphs
+          Anaconda, Jupyter Notebook, PyCharm Ide, Visual Studio Code, Mobaxterm,IntelliJ(spark-submit EMR), Docker.
+
+      - layout: left
+        title: ML operations
+        description: | # this will include new lines to allow paragraphs
+          MLflow, Datahub, AI Explainability packages.
+        
 
 
 
