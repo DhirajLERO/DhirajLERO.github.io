@@ -189,17 +189,24 @@ content:
       - layout: left
         sub_title: Committee Member
         caption: 2022
+        link: https://ieeexplore.ieee.org/xpl/conhome/9775971/proceeding
+        link_text: Program Committee
         description: | # this will include new lines to allow paragraphs
           The IEEE International Conference on Computer Supported Cooperative Work in Design (IEEE CSCWD 2022), Hangzhou, China.
+
       - layout: left
         sub_title: Organizing Chair Member
         caption: 2022
+        link: https://ieeexplore.ieee.org/xpl/conhome/9775971/proceeding
+        link_text: Special sessions
         description: | # this will include new lines to allow paragraphs
           The special session Business Intelligence: The CSCW Perspectives, IEEE International Conference on Computer Supported Cooperative Work in Design (IEEE CSCWD 2022) , Hangzhou, China.
 
       - layout: left
         sub_title: Committee Member
         caption: 2022
+        link: http://mauricon.org/icarti/index.php/committees/
+        link_text: Program Committee
         description: | # this will include new lines to allow paragraphs
           International Conference on Artificial Intelligence, and its Applications (iCARTI, 2021), Mauritius.
 
@@ -207,10 +214,36 @@ content:
         sub_title: Mentor
         caption: 2022
         link: https://www.pilcchina.org/invitation
+        link_text: Competition Website
         description: | # this will include new lines to allow paragraphs
           Rural Revitalization & E-mobility
           
           Mentored a team of 4 students from the National Rail & Transportation Institute, Vadodara to participate in the 8th China International College Students’ “Internet+” Innovation and Entrepreneurship Competition. The team secured the third position in the Shanghai zone.
+
+  - title: Professional Experience # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Edifecs Inc.
+        link: www.edifecs.com
+        link_text: Website
+        sub_title: Senior Data Scientist
+        caption: May 2021 - Sep 2023
+        quote: >
+          - A
+          - B
+          - C
+        description: | # this will include new lines to allow paragraphs
+          - Data Science Infrastructure orchestration and management
+          - Data Science Infrastructure orchestration and management
+          - Data Science Infrastructure orchestration and management
+
+
+
+
+
+
+
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
