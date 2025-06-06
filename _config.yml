@@ -314,7 +314,7 @@ content:
         sub_title: Data Science Intern
         caption: Jun 2018 – Dec 2018
         quote: >
-          In this internship, I began to understand the nuanced differences between real-world data and curated repository datasets, which are often cleaner and more structured.
+          In these internship, I began to understand the nuanced differences between real-world data and curated repository datasets, which are often cleaner and more structured.
         description: | # this will include new lines to allow paragraphs
           <mark>Projects</mark>
           - **Detection of Different Types of Arrhythmias [Ubuntu , Tensorflow, OpenCV]**
@@ -336,6 +336,20 @@ content:
           - **Consumer Feedback Analysis [GCP, NLTK, Sentence-Bert, Keras, Scikit-learn ]**
             
             Designed an application to analyze user feedback and determine technical areas that need more attention. Average classification accuracy was 93.8% in 6 classes.
+
+      - layout: left
+        title: E2EM Technologies PVT LTD
+        link: https://stpi.in/en/centre-of-entrepreneurship/ep-del
+        link_text: Website
+        sub_title: Chief Data Scientist (**ProBono**)
+        caption: Jan 2019 – Apr 2019
+        description: | # this will include new lines to allow paragraphs
+          <mark>Role</mark>
+          - Work closely with backend, frontend teams and product teams to develop analytics tools for user commute analytics.
+
+          - Drive the development of analytical, data-driven tools that can drive better/faster decision making and/or more personalized interactions with our consumers.
+          
+          - Develop systems to Analyze user behavior.
           
 
 
