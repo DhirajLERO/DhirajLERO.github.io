@@ -306,7 +306,25 @@ content:
           
             Formulated a way to analyze interactions between customer and Customer support, and further determine whether customers will continue with the service or opt-out. The accuracy of the model was 92%. This helped in retaining customers who were at risk of opting out of the service.
           
+
+      - layout: left
+        title: IIC Research Lab
+        link: www.iic.ac.in
+        link_text: Website
+        sub_title: Data Science Intern
+        caption: Jun 2018 – Dec 2018
+        quote: >
+          In this internship, I began to understand the nuanced differences between real-world data and curated repository datasets, which are often cleaner and more structured.
+        description: | # this will include new lines to allow paragraphs
+          <mark>Projects</mark>
+          - **Detection of Different Types of Arrhythmias [Ubuntu , Tensorflow, OpenCV]**
             
+            Created an approach to automate the detection of cardiac arrhythmia from two lead ECG data. My role here was to train a TDNN-based model on pre-processed data to determine whether the QRS complexes were arrhythmic or not. We used filtering and SVM to determine the position of QRS complexes.
+          
+          - **Detecting Number of Starch Structures on a Grayscale image [Ubuntu , OpenCV]**
+          
+            Used blob detection methodology to automate the tedious task of detecting starch structure on a gray scale image. Not only did we detect the total number of starch structures, but we also determined the radius and position of each starch structure.
+           
           
 
 
