@@ -9,7 +9,7 @@ version: 2
 name: Dhiraj Kumar Singh
 title: Doctoral researcher @ UL
 email: dhirajkumar.singh@ul.ie
-website: https://www.linkedin.com/in/dhiraj-singh-b6a8a51b7/
+Address: Dublin 8, Ireland
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -39,7 +39,7 @@ content:
         title: PhD in Explainable Artificial Intelligence
         caption: 2023 - 2027
         description: | # this will include new lines to allow paragraphs
-		Centre for research and Training in AI, University of Limerick, Limerick, Ireland
+Centre for research and Training in AI, University of Limerick, Limerick, Ireland
   
 
   - title: Projects # Title for the section
