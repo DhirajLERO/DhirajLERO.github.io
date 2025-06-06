@@ -234,9 +234,10 @@ content:
           - B
           - C
         description: | # this will include new lines to allow paragraphs
+          Data Science Infrastructure orchestration and management
           - Data Science Infrastructure orchestration and management
           - Data Science Infrastructure orchestration and management
-          - Data Science Infrastructure orchestration and management
+        
 
 
 
