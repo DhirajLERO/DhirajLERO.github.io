@@ -156,10 +156,10 @@ content:
           Singh, D. K., de Lima, A., Reyes Fernández de Bulnes, D., & Ryan, C. (2025). GraCo: Towards GRammar Assisted COunterfactuals. In Proceedings of the Genetic and Evolutionary Computation Conference Companion (GECCO '25 Companion) [Accepted].
 
       - layout: top-middle
-        sub_title: Blockchain technologies adoption in healthcare- Overcoming barriers amid the hype cycle to enhance patient care
+        sub_title: Blockchain technologies adoption in healthcare - Overcoming barriers amid the hype cycle to enhance patient care
         additional_links:
           - title: sproogen/modern-resume-theme
-            icon: fab <i class="fa-solid fa-file"></i>
+            icon: fab fa-github
             url: https://www.sciencedirect.com/science/article/pii/S0040162525000629
         description: | # this will include new lines to allow paragraphs
           Govindarajan, U. H., Narang, G., Singh, D. K., & Yadav, V. S. (2025). Blockchain technologies adoption in healthcare: Overcoming barriers amid the hype cycle to enhance patient care. Technological Forecasting and Social Change, 213, 124031.
