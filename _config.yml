@@ -46,7 +46,17 @@ content:
         caption: 2019
         link: https://ugcnet.nta.nic.in/
         description: | # this will include new lines to allow paragraphs
-          University Grant Commission, NET (National Eligibility test), India. Lectureship Subject: Computer Science. Percentile: 98.01%
+          University Grant Commission, NET (National Eligibility test), India. 
+          Lectureship Subject: Computer Science. Percentile: 98.01%
+      - layout: left
+        sub_title: Master’s Degree
+        caption: 2017 - 2019
+        link: https://www.du.ac.in/
+        description: | # this will include new lines to allow paragraphs
+          University of Delhi, Delhi, India, M. Sc.
+          Major: Informatics. CGPA: 7.39
+          Advisor: Dr. Sanjiv Singh.
+          Conducted Lectures on Machine Learning For M.Sc. Students.
   
   
 
